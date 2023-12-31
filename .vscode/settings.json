@@ -1,0 +1,5 @@
+{
+    "generation.contextMapGenerator.fixImageHeight": true,
+    "generation.contextMapGenerator.fixImageWidth": true,
+    "generation.contextMapGenerator.generateLabels": true
+}
